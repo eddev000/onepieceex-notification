@@ -24,7 +24,7 @@ crontab -e
 
 // Sends you notification every 1min (I don't recommend it)
 
-*\1 * * * * termux-notification.sh
+*\1 * * * * one.sh
 
 // Salve o arquivo
 
