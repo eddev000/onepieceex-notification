@@ -1,8 +1,8 @@
 ## INSTALATION
 
 ```
-git clone https://github.com/eddev000/onepieceex-notification.git && cp onepieex-notification/onepieceex.sh /usr/bin/onepieceex.sh
-chmod a+x usr/bin/onepieceex.sh
+git clone https://github.com/eddev000/onepieceex-notification.git && cp onepieex-notification/one.sh ../usr/bin/one.sh
+chmod a+x ../usr/bin/one.sh
 npm install
 ```
 ## CONFIGURE CRONTAB
