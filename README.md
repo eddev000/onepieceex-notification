@@ -1,7 +1,7 @@
 ## INSTALATION
 
 ```
-git clone https://github.com/eddev000/onepieceex-notification.git && cd onepieceex-notification && npm install
+git clone https://github.com/eddev000/onepieceex-notification.git && cd onepieceex-notification && npm install && cd ..
 
 cp onepieceex-notification/one.sh ../usr/bin/one.sh
 

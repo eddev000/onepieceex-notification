@@ -46,9 +46,12 @@ axios.get('https://onepieceex.net/')
         })
     })
     let nameUrl = info_data[0].image_url
+    let nameUrl1 = info_data[1].image_url
     let nameImage  = nameUrl.slice(50)
+    let nameImage1  = nameUrl1.slice(50)
     imageDownloader(nameUrl)
     notification(info_data[0].title, info_data[0].content, `~/onepieceex-notification/${nameImage}`)
+    notification(info_data[1].title, info_data[1].content, `~/onepieceex-notification/${nameImage1}`)
 })
 .catch(err => {
     console.log(err)
