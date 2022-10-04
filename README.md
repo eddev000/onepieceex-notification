@@ -1,3 +1,10 @@
+<div align="center">
+    <img align="center" width="240px" src="./assets/One-Piece-Logo.png" />
+</div>
+<div align="left">
+    <img align="center" src="./assets/luff.gif" />
+</div>
+
 ## INSTALATION
 
 ```
@@ -31,3 +38,8 @@ crontab -e
 crond start
 
 ```
+## SCREENSHOT
+
+<div align="center">
+    <img align="center" width="100%" src="./assets/screen.jpg" />
+</div>
