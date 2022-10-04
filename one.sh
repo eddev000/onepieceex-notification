@@ -1,2 +1,2 @@
 cd onepieceex-notification
-node onepieceex.sh
+node one.sh
